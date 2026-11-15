@@ -1,4 +1,3 @@
-# Версия проекта из ветки parts
 ТЕКСТ README
 # Doctor Appointment App
 
